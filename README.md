@@ -5,3 +5,4 @@ TRABALHO OO
 #Glauco O. Custodio
 #Brendon Robert
 #Bruna Barros
+#Alex Rogerio
